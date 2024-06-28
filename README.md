@@ -32,3 +32,13 @@ What data points of a school district affect graduation rates?
 - **Teacher Pay** - Higher teacher salary correlates positively with graduation rates.
 - **Web Sentiment is Similar** - Both the top performing and bottom performing websites had similar positive sentiment to all posts.
 - **More Data is Needed** - More specific student data would give us better insights into students and allow us to predict student performance.
+
+# Plots
+### The positive correlation of chronic absenteeism to having MKV students in your district.
+![](/Plots/chronic_absence_rate_plot.png)
+
+### The big difference in graduate rates between all students and MKV students depending on rural designation
+![](/Plots/Grad_boxplots.png)
+
+### District Website Evaluation shows the similarities in the positive sentiments of top performing and bottom performing school districts
+![](/Plots/St Vrain Valley RE1J Score.png)
