@@ -41,4 +41,5 @@ What data points of a school district affect graduation rates?
 ![](/Plots/Grad_boxplots.png)
 
 ### District Website Evaluation shows the similarities in the positive sentiments of top performing and bottom performing school districts
-![](/Plots/St Vrain Valley RE1J Score.png)
+![](/Plots/St_Vrain_Valley_RE1J_Score.png)
+![](/Plots/District_49_Sentiment_Score.png)
