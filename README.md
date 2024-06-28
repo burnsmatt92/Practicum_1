@@ -40,6 +40,6 @@ What data points of a school district affect graduation rates?
 ### The big difference in graduate rates between all students and MKV students depending on rural designation
 ![](/Plots/Grad_boxplots.png)
 
-### District Website Evaluation shows the similarities in the positive sentiments of top performing and bottom performing school districts
+### District Website Evaluation shows the similarities in the positive sentiments of top performing (St Vrain Valley) and bottom performing (District 49) school districts
 ![](/Plots/St_Vrain_Valley_RE1J_Score.png)
 ![](/Plots/District_49_Sentiment_Score.png)
