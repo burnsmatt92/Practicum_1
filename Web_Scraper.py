@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import csv
 import time
 
+# Method to extract and clean the text that is scraped
 def extract_and_clean_text(url):
 
     try:
@@ -32,6 +33,7 @@ max_pages = 1000
 max_crawl_time = 600  
 start_time = time.time()
 
+# Method to crawl website and stop either when at the end of time or max pages scraped
 def crawl_website(url):
     print(url)
 
